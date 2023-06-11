@@ -6,6 +6,8 @@
 
 Este projeto é uma avaliação da disciplina de Programação de Soluções Computacionais da UniRitter. O programa desenvolvido funciona como uma calculadora de salário para professores. O programa solicita ao usuário informações sobre o professor, incluindo seu nome e regime de pagamento (CLT, Horista ou PJ), e calcula o valor a receber pelo professor de acordo com seu regime de pagamento.
 
+[Veja aqui o enunciado completo do problema](./assets/CalculadoraProfessor_20230529190708.pdf) 
+
 ### Como Utilizar
 
 1. Execute a classe Main.
